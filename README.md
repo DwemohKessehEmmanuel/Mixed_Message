@@ -8,5 +8,5 @@ Project renders in a normal desktop sized screen on PC
 The project is about writing a code to randomnly generate messages. This was done using HTML, JS and CSS. 
 Clicking on the button provided will randomnly generate facts about earth.
 
-[click here to deploy the designs]()
+[click here to deploy the designs](https://dwemohkessehemmanuel.github.io/Mixed_Message/index.html)
 
